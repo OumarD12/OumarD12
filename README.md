@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <h1 align="center">Hi 👋, I'm Oumar xw</h1>
-<h3 align="center">Beginner Developer • Mali</h3>
+<h3 align="center">Beginner Developer • </h3>
 
 <p align="center">
   🔭 Currently focused on **JavaScript & React (ecosystem – early stage)**  
@@ -35,17 +35,19 @@
 ---
 
 ## 🛠️ Languages & Tools
+<!-- Tech tools anchor -->
+[tech_tools_anchor]: #
 
 #### 🧑‍💻 Programming Languages
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />]
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />]
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" height="25" />]
+[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" height="25" />][tech_tools_anchor]
 
 ---
 
