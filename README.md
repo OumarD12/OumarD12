@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <h1 align="center">Hi 👋, I'm Oumar xw</h1>
-<h3 align="center">Beginner Developer • </h3>
+<h3 align="center">Beginner Developer • Mali</h3>
 
 <p align="center">
   🔭 Currently focused on **JavaScript & React (ecosystem – early stage)**  
@@ -37,26 +37,15 @@
 ## 🛠️ Languages & Tools
 
 #### 🧑‍💻 Programming Languages
-[<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=239120" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ED8B00" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />][tech_tools_anchor]
-
----
-
-## 📂 Current Focus
-
-- **javascript-core repo** – daily exercises and mini-projects  
-- React (ecosystem – early stage)  
-- Small web projects to practice HTML, CSS, and JS  
-- Arduino experiments
+[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" height="25" />]
 
 ---
 
@@ -69,7 +58,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/api/?username=oumarxw__&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/api/?username=OumarD12&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
